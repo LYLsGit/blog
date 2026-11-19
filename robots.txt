@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lylsgit.github.io/blog/sitemap.xml
